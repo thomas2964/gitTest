@@ -1,3 +1,4 @@
 interface test {
+  void check();
 }
 
