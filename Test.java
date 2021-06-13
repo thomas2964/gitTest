@@ -1,4 +1,4 @@
-interface test {
+interface Test {
    void check();
    //comment
 }
