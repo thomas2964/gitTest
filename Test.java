@@ -3,5 +3,8 @@ interface Test {
    void check2();
    void check3();//
    //mistake2//
+   //comment
+   default int sum(int a, int b) { return a + b;}
+   static int constant() { return 1;}
 }
 
