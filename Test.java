@@ -1,6 +1,7 @@
 interface Test {
    void check();
    void check(int i);
-   //comment222  nov 15
+   void check2();
+   //comment222
 }
 
