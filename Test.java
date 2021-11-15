@@ -5,6 +5,6 @@ interface Test {
    static int constant() { return 1;}
    void check(int i);
    void check2();  //
-   //comment222
+   //comment222 Nov 1555555
 }
 
