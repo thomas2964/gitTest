@@ -1,5 +1,8 @@
 interface Test {
    void check();
+   void check(int i);
+   void check2();
+   //comment222
    void check2();
    void check3();//
    void test123();
