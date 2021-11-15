@@ -1,5 +1,5 @@
 interface Test {
    void check();
-   //comment
+   //comment222
 }
 
