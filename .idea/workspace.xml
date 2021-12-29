@@ -1,21 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9575f20a-df3e-4816-b829-ac674d4136d1" name="Default Changelist" comment="added mistake" />
+    <list default="true" id="cfeac9c6-0e69-4bd5-a409-94c6e50c35d3" name="Default Changelist" comment="added mistake">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="thomas2964" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="gitTest" />
+  </component>
+  <component name="ProjectId" id="1owXZjNx7oYQY0mi716ied8Xozf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="test">
-      <created>1641112591831</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfeac9c6-0e69-4bd5-a409-94c6e50c35d3" name="Default Changelist" comment="" />
+      <created>1614198683850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614198683850</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added comment">
+      <created>1623536870468</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1641112591831</updated>
+      <updated>1623536870468</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added comment">
+      <created>1623548689763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623548689763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added comment222">
+      <created>1636937231459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636937231459</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added check(int i)">
+      <created>1636938427688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636938427688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added check2">
+      <created>1636938893934</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636938893934</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added check2">
+      <created>1636939010669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636939010669</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added check2 nov15">
+      <created>1637479166050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637479166050</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added check2 nov15">
+      <created>1637479910970</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637479910970</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added check2">
+      <created>1637479966275</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637479966275</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added check2">
+      <created>1637480076748</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637480076748</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added check3">
+      <created>1637480121344</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637480121344</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added check3">
+      <created>1637480199739</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637480199739</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added mistake">
+      <created>1637480260727</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1637480260727</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -31,7 +154,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="added comment" />
+    <MESSAGE value="added comment222" />
+    <MESSAGE value="added check(int i)" />
+    <MESSAGE value="added check2 nov15" />
+    <MESSAGE value="added check2" />
+    <MESSAGE value="added check3" />
+    <MESSAGE value="added mistake" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mistake" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
