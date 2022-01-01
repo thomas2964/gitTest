@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfeac9c6-0e69-4bd5-a409-94c6e50c35d3" name="Default Changelist" comment="added check2" />
+    <list default="true" id="cfeac9c6-0e69-4bd5-a409-94c6e50c35d3" name="Default Changelist" comment="added mistake" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="thomas2964" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="gitTest" />
   </component>
   <component name="ProjectId" id="1owXZjNx7oYQY0mi716ied8Xozf" />
   <component name="ProjectViewState">
@@ -81,7 +87,56 @@
       <option name="project" value="LOCAL" />
       <updated>1636939010669</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added check2 nov15">
+      <created>1637479166050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637479166050</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added check2 nov15">
+      <created>1637479910970</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637479910970</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added check2">
+      <created>1637479966275</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637479966275</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added check2">
+      <created>1637480076748</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637480076748</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added check3">
+      <created>1637480121344</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637480121344</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added check3">
+      <created>1637480199739</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637480199739</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added mistake">
+      <created>1637480260727</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1637480260727</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,8 +155,11 @@
     <MESSAGE value="added comment" />
     <MESSAGE value="added comment222" />
     <MESSAGE value="added check(int i)" />
+    <MESSAGE value="added check2 nov15" />
     <MESSAGE value="added check2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added check2" />
+    <MESSAGE value="added check3" />
+    <MESSAGE value="added mistake" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mistake" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
