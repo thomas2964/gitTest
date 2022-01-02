@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="9575f20a-df3e-4816-b829-ac674d4136d1" name="Default Changelist" comment="added mistake" />
     <list default="true" id="cfeac9c6-0e69-4bd5-a409-94c6e50c35d3" name="Default Changelist" comment="added mistake" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="test">
+      <created>1641112591831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641112591831</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -163,6 +173,7 @@
       <map>
         <entry key="MAIN">
           <value>
+            <State />
             <State>
               <option name="FILTERS">
                 <map>
@@ -183,6 +194,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
     <MESSAGE value="added comment" />
     <MESSAGE value="added comment222" />
     <MESSAGE value="added check(int i)" />
