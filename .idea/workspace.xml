@@ -18,11 +18,16 @@
     <option name="NEW_BASE" value="origin/master" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="newbranch5" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubProjectSettings">
-    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="branch4" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="thomas2964" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="gitTest" />
   </component>
@@ -143,7 +148,25 @@
       <option name="project" value="LOCAL" />
       <updated>1641008425704</updated>
     </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00015" summary="update workspace.">
+      <created>1641011297687</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1641011297687</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update workspace.">
+      <created>1641013307346</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1641013307346</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+=======
     <option name="localTasksCounter" value="15" />
+>>>>>>> 92016e3... update workspace.
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +174,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/new-branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
